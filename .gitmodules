@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:SecureStackSolutions/aurumcapitalpartners_frontend.git
+[submodule "reverseproxy"]
+	path = reverseproxy
+	url = git@github.com:SecureStackSolutions/aurumcapitalpartners_reverseproxy.git
